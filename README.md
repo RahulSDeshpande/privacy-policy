@@ -1,13 +1,4 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset='utf-8'>
-    <meta name='viewport' content='width=device-width'>
-    <title>Privacy Policy</title>
-    <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; }
-    </style>
-</head>
-<body>
 <h2>Privacy Policy</h2>
 <p>I built the Expenso app as a Free app. This SERVICE is provided by
     at no cost and is intended for use as is.
@@ -97,5 +88,3 @@
 <p><strong>Contact Us</strong></p>
 <p>If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me
     at rahul.deshpande92@gmail.com (Rahul Deshpande).</p>
-</body>
-</html>
