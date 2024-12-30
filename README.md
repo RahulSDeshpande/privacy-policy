@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <h2>Privacy Policy</h2>
 <p>I built the Expenso app as a Free app. This SERVICE is provided by
     at no cost and is intended for use as is.
